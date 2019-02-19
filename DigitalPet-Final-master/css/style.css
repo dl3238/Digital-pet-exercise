@@ -1,3 +1,9 @@
+h2 {
+	font-family: arial;
+	font-size: 30px;
+	font-weight: bold;
+}
+
 .container {
 	margin: 10px auto;
 	overflow: auto;
