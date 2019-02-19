@@ -4,11 +4,11 @@
     <img src={ petImg } alt="pet">
     <br>
     <div class="row">
-      <p>Mode: {petPost}</p>
+      <p>Mood: {petPost}</p>
       <p>Tiredness: {petLike}</p>
     </div>
     <br>
-    <button name="post" onclick={ setPost }>Post</button>
+    <button name="post" onclick={ setPost }>Selfie</button>
     <button name="like" onclick={ setLike }>Like</button>
     <button name="reset" onclick={ setReset }>Reset</button>
 

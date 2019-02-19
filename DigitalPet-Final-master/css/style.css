@@ -1,9 +1,16 @@
+h2 {
+	font-family: arial;
+	font-size: 30px;
+	font-weight: bold;
+}
+
 .container {
 	margin: 10px auto;
 	overflow: auto;
 	text-align: center;
 	width: 600px;
 }
+
 img { width:245px;
   height:245px;
   padding-top: 30px;
