@@ -5,7 +5,7 @@
     <br>
     <div class="row">
       <p>Mood: {petPost}</p>
-      <p>Tiredness: {petLike}</p>
+      <p>Happiness: {petLike}</p>
     </div>
     <br>
     <button name="post" onclick={ setPost }>Selfie</button>
